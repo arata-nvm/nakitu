@@ -1,4 +1,4 @@
 run:
-	go run . > image.ppm
+	go run .
 
 .PHONY: run
